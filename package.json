@@ -1,0 +1,26 @@
+{
+  "name": "js-reverse",
+  "version": "1.0.0",
+  "description": "js逆向（猿人学练习题目）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jioho/js-reverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jioho/js-reverse/issues"
+  },
+  "homepage": "https://github.com/Jioho/js-reverse#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.18"
+  }
+}
